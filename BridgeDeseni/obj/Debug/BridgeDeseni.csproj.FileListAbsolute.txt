@@ -1,0 +1,6 @@
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BridgeDeseni\BridgeDeseni\bin\Debug\BridgeDeseni.exe.config
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BridgeDeseni\BridgeDeseni\obj\Debug\BridgeDeseni.csprojResolveAssemblyReference.cache
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BridgeDeseni\BridgeDeseni\bin\Debug\BridgeDeseni.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BridgeDeseni\BridgeDeseni\bin\Debug\BridgeDeseni.pdb
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BridgeDeseni\BridgeDeseni\obj\Debug\BridgeDeseni.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BridgeDeseni\BridgeDeseni\obj\Debug\BridgeDeseni.pdb
